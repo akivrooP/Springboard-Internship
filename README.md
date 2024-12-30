@@ -1,2 +1,2 @@
 # Springboard-Internship
-My Internship repo-2024
+AI-Enhanced Customer Support Ticket Resolution and Proactive Issue Prevention System 
