@@ -1,10 +1,10 @@
  # AI-Enhanced Customer Support Ticket Resolution and Proactive Issue Prevention System
 
-**<span style="font-size:36px;"> Overview. </span>**
+## Overview:-
 This project develops an advanced AI-powered customer support system that leverages historical ticket data and real-time sentiment analysis to streamline customer support. By integrating Large Language Models (LLMs) like OpenAI GPT and Meta LLaMA, alongside tools such as Google Sheets, Slack, and Email, this system automates responses, escalates high-priority tickets, and predicts recurring issues for proactive resolution.
 
 
-## Key Features
+## Key Features;-
 ### Predictive Issue Detection: 
 Identifies patterns in historical support tickets to forecast recurring problems and suggest preemptive solutions.
 ### Sentiment-Based Ticket Escalation:
@@ -15,7 +15,7 @@ AI-generated replies for repetitive issues, integrated with multiple communicati
 Visualizes potential future problems and offers recommendations for preventative measures.
 
 
-## Modules
+## Modules:-
 ### Historical Analysis and Recurrence Detection Engine
 Analyzes historical ticket data to identify recurring patterns.
 Generates preemptive solutions for common problems.
@@ -29,7 +29,7 @@ Seamlessly integrates with Slack for efficient communication.
 Provides insights into potential future issues.
 Offers proactive measures based on historical data.
 
-## Technologies Used
+## Technologies Used:-
 ### AI Models: 
 Gemini, Meta LLaMA
 ### Visualization Tools: 
